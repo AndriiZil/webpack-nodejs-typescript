@@ -1,0 +1,8 @@
+# WebStorm config files
+.idea
+
+# Modules
+node_modules
+
+# Output files
+dist
